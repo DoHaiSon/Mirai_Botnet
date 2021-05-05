@@ -129,7 +129,7 @@ In the main tutorial this wasn't included so I added it to make life easier.
 
 
  code:
- 
+ ```
  
  
  mkdir /etc/xcompile
@@ -199,7 +199,7 @@ export PATH=$PATH:/etc/xcompile/armv6l/bin
 export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/Documents/go
 
-
+```
 
 -------------------------NO MORE CODE-------------------STOP HERE AND READ----------------
 
@@ -212,9 +212,9 @@ get sure you are in this directory --> ../Mirai-Source-code/mirai
 
 
 code:
-
+```
 ./build.sh debug telnet
-
+```
 
 
 -------------------------NO MORE CODE-------------------STOP HERE AND READ----------------
