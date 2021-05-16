@@ -18,6 +18,8 @@ else
     echo "Usage: $0 <debug | release> <telnet | ssh>"
 fi
 
+gcc -std=c99 bot/*.c -DDEBUG "-DMIRAI_TELNET" -static -g -o debug/mirai.dbg
+
 if [ $# == 0 ]; then
     echo "Usage: $0 <debug | release> <telnet | ssh>"
 elif [ "$1" == "release" ]; then
